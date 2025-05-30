@@ -32,11 +32,9 @@ A modern **Contact Manager App** built using **Jetpack Compose** and **MVVM arch
 
 ## 📸 Screenshots
 
-### Home Screen
-<img src="https://github.com/upend123/Contact-APP/blob/main/screenshots/home.jpg" width="300" height="600" alt="Description">
-
-### Add Or Update 
-<img src="https://github.com/upend123/Contact-APP/blob/main/screenshots/AddEdit.jpg" width="300" height="600" alt="Description">
+| Home Screen | Add & Update |
+|----------|---------|
+| ![Home Screen](screenshots/home.jpg) | ![ Add & Update](screenshots/AddEdit.jpg) |
 
 ---
 ## 🛠️ Technologies Used
